@@ -105,7 +105,8 @@ li:hover {
 }
 
 img {
-    width: 100px;
+    width: 500px;
+    height: 500px;
     border-radius: 50%;
     animation-name: rotating;
     animation-duration: 2s;
